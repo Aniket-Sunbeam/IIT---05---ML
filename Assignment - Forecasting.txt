@@ -1,0 +1,5 @@
+Que.1 
+Prepare a forecasting model to forecast Passengers of Airlines.
+
+Que.2
+Prepare a forecasting model to forecast Sales of CocaCola.
