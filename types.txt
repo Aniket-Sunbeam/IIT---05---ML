@@ -1,0 +1,33 @@
+
+Column = "Manufacturer"
+
+harley-davidson, chevrolet, pontiac, ram, ford, gmc, tesla, jeep, dodge, cadillac, chrysler, lincoln, buick, saturn, mercury -------- "American"
+   
+lexus, nissan, toyota, acura, honda, infiniti, subaru, mitsubishi, datsun, mazda --------------------- "Japanese"
+
+volkswagen, mercedes-benz, bmw, audi, porsche -------- "German"
+
+ferrari,fiat,alfa-romeo  ------- "Italian"
+
+kia, hyundai ------- "Korean"
+    
+volvo ------ "Swedish"
+    
+rover, mini, land rover, jaguar -------- "English"
+
+
+Column = "type"
+
+sedan, convertible, coupe, hatchback, other   -------- "Luxury_small"
+   
+SUV, wagon ----------- "luxury_large"
+
+pickup, truck, offroad -------- "non-luxury_small"
+
+van, mini-van, bus  ------------ "non-luxury_large"
+
+Column = "paint_color"
+
+white, silver, yellow, orange, green, custom ---------- "light color"
+   
+black, red, blue, purple, grey, brown --------- "dark color"
